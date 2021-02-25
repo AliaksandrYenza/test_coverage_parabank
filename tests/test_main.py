@@ -1,4 +1,4 @@
 
 
-if __name__ == "__main__":
-    print(12345)
+def test_main():
+    assert 2 == (1+1)
